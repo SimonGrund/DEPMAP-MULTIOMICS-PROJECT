@@ -1,4 +1,4 @@
-# DepMap Multi-Omics Project (NCBS 2025)
+# DepMap Multi-Omics Analysis of Cancer Cell lines
 
 ## NCBS 2025
 
