@@ -31,7 +31,7 @@ Genes: 307 common cancer genes (TP53 PIK3CA KRAS BRAF NRAS HRAS PTEN APC CTNNB1 
 - Outcome: `RNAi_(Achilles+DRIVE+Marcotte,_DEMETER2)_subsetted-4.csv`  
   Source: https://depmap.org/portal/data_page/?tab=customDownloads
 
-The Outcome file contains the RNA interference (silencing) results for cell-line experiments across five genes (BRCA1 BRCA2 TP53 BRIP1 PARP1). Choose one, and use the predictors to model the cell line dependency on that gene. (the lower value, the more dependent. >-0.5 generally means the cell line dies when the gene is silenced).
+The Outcome file contains the RNA interference (silencing) results for cell-line experiments across five genes (BRCA1 BRCA2 TP53 BRIP1 PARP1). Choose one, and use the predictors to model the cell line dependency on that gene. (the lower value, the more dependent. <-0.5 generally means the cell line dies when the gene is silenced).
 
 ## Research Questions (Ideas)
 
